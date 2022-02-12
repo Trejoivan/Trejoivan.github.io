@@ -4,7 +4,7 @@ A student Software Engineer that is in the growing procesing of coding up skynet
 
 I have an abundance of self-learning experienve and I am currently attending a coding bootcamp with a great military and military spouse bootamp called  code platoon. I will be graduating on May 13, 2022 and will be open for work around June 2022. 
 
-I enjoy helping both experienced and non-experienced people with their work, so if you would likee to reach me, you are welcome to connect with me on my limked-in 
+If you want to message me for question, assitance on a project, or if you just want to follow my journey as a developer, feel free to connect with me.
 [Linked](https://www.linkedin.com/in/ivan-trejo-dev/)
 ----
 My Toolbox 🧰
