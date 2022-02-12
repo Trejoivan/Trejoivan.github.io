@@ -1,6 +1,6 @@
 Hello traveler, my name is Ivan, and I'm an aspiring software engineer. I currently have an abundance of self-taught experience. I am always open to advise and opportunities, so I'm all ears if you want to provide me with either. I hope you enjoy viewing my projects.
 
-![React](https://user-images.githubusercontent.com/86818646/153719380-9e90bb2f-e937-4297-adb2-c0b6668f3c7c.png)
+![React](https://user-images.githubusercontent.com/86818646/153719417-8dc8951f-7a44-4373-a547-f543b787d74e.png)
 
 <!--!
 
