@@ -1,8 +1,14 @@
-Hello traveler, my name is Ivan, and I'm an aspiring software engineer. I currently have an abundance of self-taught experience. I am always open to advise and opportunities, so I'm all ears if you want to provide me with either. I hope you enjoy viewing my projects.
-
-Programming Languages
+Hi there 👋, I am Ivan Trejo
 ---
+A student Software Engineer that is in the growing procesing of coding up skynet. So far I have a program repeating 'Hasta la vista, baby!', so needless to say we're getting somewhere. 
 
+I have an abundance of self-learning experienve and I am currently attending a coding bootcamp with a great military and military spouse bootamp called  code platoon. I will be graduating on May 13, 2022 and will be open for work around June 2022. 
+
+I enjoy helping both experienced and non-experienced people with their work, so if you would likee to reach me, you are welcome to connect with me on my limked-in 
+[Linked](https://www.linkedin.com/in/ivan-trejo-dev/)
+----
+My Toolbox 🧰
+---
 ![React](https://user-images.githubusercontent.com/86818646/153720302-eadc7984-d6f2-4084-860b-fb13acd41925.png)
 ![css3](https://user-images.githubusercontent.com/86818646/153720316-737e18ee-b178-4555-876c-8456bc10bae5.png)
 ![html2](https://user-images.githubusercontent.com/86818646/153720326-2488d680-f1e0-4599-8a02-98766522a743.png)
