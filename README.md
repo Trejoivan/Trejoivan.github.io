@@ -4,11 +4,7 @@ Hello traveler, my name is Ivan, and I'm an aspiring software engineer. I curren
 
 
 ![React](https://user-images.githubusercontent.com/86818646/153719429-13b754b1-ba31-4aba-af2c-723ae2a48ba5.png)
-![git](https://user-images.githubusercontent.com/86818646/153719450-e01a15f6-cf19-429c-b54c-93735639887c.png)
-![python](https://user-images.githubusercontent.com/86818646/153719459-373951b7-dd39-4035-90dc-313f48a26e67.png)
-![Java logo](https://user-images.githubusercontent.com/86818646/153719545-e503503c-fc2d-4b79-b2bc-fd634204c851.png)
-![html2](https://user-images.githubusercontent.com/86818646/153719487-5e26a1a4-99c0-45d3-a88f-a7690fcdc12d.png)
-![css3](https://user-images.githubusercontent.com/86818646/153719499-1b9152a9-4673-41a2-b6e7-0795dc21e0c4.png)
+![css3](https://user-images.githubusercontent.com/86818646/153719584-e932cefa-b9bf-4c9a-a5a9-b64c51386cd9.png)
 
 <!--!
 
