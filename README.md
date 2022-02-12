@@ -1,8 +1,8 @@
 Hello traveler, my name is Ivan, and I'm an aspiring software engineer. I currently have an abundance of self-taught experience. I am always open to advise and opportunities, so I'm all ears if you want to provide me with either. I hope you enjoy viewing my projects.
 
-
-
 Programming Languages
+---
+
 ![React](https://user-images.githubusercontent.com/86818646/153720302-eadc7984-d6f2-4084-860b-fb13acd41925.png)
 ![css3](https://user-images.githubusercontent.com/86818646/153720316-737e18ee-b178-4555-876c-8456bc10bae5.png)
 ![html2](https://user-images.githubusercontent.com/86818646/153720326-2488d680-f1e0-4599-8a02-98766522a743.png)
