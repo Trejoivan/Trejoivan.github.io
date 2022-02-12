@@ -1,5 +1,14 @@
 Hello traveler, my name is Ivan, and I'm an aspiring software engineer. I currently have an abundance of self-taught experience. I am always open to advise and opportunities, so I'm all ears if you want to provide me with either. I hope you enjoy viewing my projects.
 
+
+
+![html2](https://user-images.githubusercontent.com/86818646/153719163-ca07410c-318c-49b5-a1b8-60289cca598a.png)
+![python](https://user-images.githubusercontent.com/86818646/153719167-8466eb9d-f250-4e7d-bc0c-4c6597585838.png)
+![Java logo](https://user-images.githubusercontent.com/86818646/153719169-1199cb6d-6863-4fd4-af6f-fb567422535d.png)
+![html2](https://user-images.githubusercontent.com/86818646/153719171-9927d614-0c56-4aa3-a19a-bd2db2c87dab.png)
+![css3](https://user-images.githubusercontent.com/86818646/153719176-375b6eaa-7e1f-43f4-ab5d-c5a3038632c8.png)
+![React](https://user-images.githubusercontent.com/86818646/153719185-448ea9cf-c47a-446e-b0e3-27c2fe873354.png)
+
 <!--
 **Trejoivan/Trejoivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
