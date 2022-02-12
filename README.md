@@ -1,4 +1,5 @@
 Hello traveler, my name is Ivan, and I'm an aspiring software engineer. I currently have an abundance of self-taught experience. I am always open to advise and opportunities, so I'm all ears if you want to provide me with either. I hope you enjoy viewing my projects.
+
 <!--
 **Trejoivan/Trejoivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
