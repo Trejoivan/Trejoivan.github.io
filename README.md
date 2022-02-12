@@ -2,14 +2,15 @@ Hello traveler, my name is Ivan, and I'm an aspiring software engineer. I curren
 
 
 
+Programming Languages
+![React](https://user-images.githubusercontent.com/86818646/153720302-eadc7984-d6f2-4084-860b-fb13acd41925.png)
+![css3](https://user-images.githubusercontent.com/86818646/153720316-737e18ee-b178-4555-876c-8456bc10bae5.png)
+![html2](https://user-images.githubusercontent.com/86818646/153720326-2488d680-f1e0-4599-8a02-98766522a743.png)
+![Java logo](https://user-images.githubusercontent.com/86818646/153720339-74ff4128-64bc-4dfa-9190-620ae71e235a.png)
+![git](https://user-images.githubusercontent.com/86818646/153720353-44e4e1b8-6266-4fe6-9849-63927deacfc1.png)
+![python](https://user-images.githubusercontent.com/86818646/153720357-b38cd6d7-d929-48a2-9a7d-5bcf108425dd.png)
 
-![React](https://user-images.githubusercontent.com/86818646/153719429-13b754b1-ba31-4aba-af2c-723ae2a48ba5.png)
-![css3](https://user-images.githubusercontent.com/86818646/153719584-e932cefa-b9bf-4c9a-a5a9-b64c51386cd9.png)
-![html2](https://user-images.githubusercontent.com/86818646/153720056-d6fdbdab-47c6-4d8f-bebc-77b0c6c99f30.png)
-![Java logo](https://user-images.githubusercontent.com/86818646/153720102-163db6c9-fb43-4fde-847a-807f0c4f2677.png)
-![git](https://user-images.githubusercontent.com/86818646/153720105-2ee3703f-3f15-4c46-bd40-9d848721e07e.png)
-![python](https://user-images.githubusercontent.com/86818646/153720108-1af09d84-6948-44f6-9e8d-8367d3853df6.png)
-![amazon](https://user-images.githubusercontent.com/86818646/153720116-b55870b8-6a31-4529-9f06-78624e20d601.png)
+
 
 <!--!![amazon](https://user-images.githubusercontent.com/86818646/153720110-d158f4c5-ed20-4137-86cc-63d219569c5c.png)
 
