@@ -1,11 +1,9 @@
 Hello traveler, my name is Ivan, and I'm an aspiring software engineer. I currently have an abundance of self-taught experience. I am always open to advise and opportunities, so I'm all ears if you want to provide me with either. I hope you enjoy viewing my projects.
 
-![css3](https://user-images.githubusercontent.com/86818646/153719264-9bf423cf-a8d0-4113-a0d8-817ad6f75b52.png)
-![html2](https://user-images.githubusercontent.com/86818646/153719267-2dce2dc4-8db0-45f7-a6dc-41dcc8a2d672.png)
+![amazon](https://user-images.githubusercontent.com/86818646/153719360-f6337f5f-5bec-4bbe-b4af-cdb0ce96c283.png)
 
+<!--!
 
-
-<!--
 **Trejoivan/Trejoivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
