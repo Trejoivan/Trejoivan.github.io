@@ -1,5 +1,5 @@
 Hi there 👋, I am Ivan Trejo 👨🏻‍💻
----
+----
 A student Software Engineer that is in the growing procesing of coding up skynet. So far I have a program repeating 'Hasta la vista, baby!', so needless to say we're getting somewhere. 
 
 I have an abundance of self-learning experience and I am currently attending a great military and military-spouse bootcamp called Code Platoon. I will be graduating on May 13, 2022 and will be open for work around June 2022. 
