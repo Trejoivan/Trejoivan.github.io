@@ -1,4 +1,4 @@
-Hi there 👋, I am Ivan Trejo
+Hi there 👋, I am Ivan Trejo 👨🏻‍💻
 ---
 A student Software Engineer that is in the growing procesing of coding up skynet. So far I have a program repeating 'Hasta la vista, baby!', so needless to say we're getting somewhere. 
 
@@ -19,21 +19,9 @@ My Toolbox 🧰
 
 My Hobbies
 ----
-
-My Certifications\Experience 📃
----
--Amazon Web Services Certified Cloud Practitioner
-
--Linked-in JavaScript Assessment scored in the top 5% of 1.2 million individuals tested.
-
--Udemy © Certification “Visual Studious Ultimate Course”
-
--Udemy © Certification “Advanced JavaScript”
-
--Udemy © Certification “The Complete JavaScript Course 2021: From Zero to Expert”
-
--Udemy © Certification “7 Tweak to Keep Your Website Looking Great!”
-
--Udemy © Certification “Build Responsive Real-World Website with HTML and CSS”
+Boxer🥊
+Wrestling🤼‍♂️
+Music🎧
+Painting🎨
 
 
