@@ -17,11 +17,15 @@ My Toolbox 🧰
 ![git](https://user-images.githubusercontent.com/86818646/153720353-44e4e1b8-6266-4fe6-9849-63927deacfc1.png)
 ![python](https://user-images.githubusercontent.com/86818646/153720357-b38cd6d7-d929-48a2-9a7d-5bcf108425dd.png)
 
+
 My Hobbies
 ----
 Boxer🥊
+
 Wrestling🤼‍♂️
+
 Music🎧
+
 Painting🎨
 
 
