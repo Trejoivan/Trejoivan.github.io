@@ -7,7 +7,7 @@ I have an abundance of self-learning experience and I am currently attending a g
 If you want to message me for question, assitance on a project, or if you just want to follow my journey as a developer, feel free to connect with me.
 [Linked](https://www.linkedin.com/in/ivan-trejo-dev/)
 
-----
+
 My Toolbox 🧰
 ----
 ![React](https://user-images.githubusercontent.com/86818646/153720302-eadc7984-d6f2-4084-860b-fb13acd41925.png)
