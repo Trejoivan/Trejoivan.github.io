@@ -10,12 +10,14 @@ If you want to message me for question, assitance on a project, or if you just w
 
 My Toolbox 🧰
 ----
+![Java logo](https://user-images.githubusercontent.com/86818646/153720339-74ff4128-64bc-4dfa-9190-620ae71e235a.png)
 ![React](https://user-images.githubusercontent.com/86818646/153720302-eadc7984-d6f2-4084-860b-fb13acd41925.png)
+![python](https://user-images.githubusercontent.com/86818646/153720357-b38cd6d7-d929-48a2-9a7d-5bcf108425dd.png)
 ![css3](https://user-images.githubusercontent.com/86818646/153720316-737e18ee-b178-4555-876c-8456bc10bae5.png)
 ![html2](https://user-images.githubusercontent.com/86818646/153720326-2488d680-f1e0-4599-8a02-98766522a743.png)
-![Java logo](https://user-images.githubusercontent.com/86818646/153720339-74ff4128-64bc-4dfa-9190-620ae71e235a.png)
+
 ![git](https://user-images.githubusercontent.com/86818646/153720353-44e4e1b8-6266-4fe6-9849-63927deacfc1.png)
-![python](https://user-images.githubusercontent.com/86818646/153720357-b38cd6d7-d929-48a2-9a7d-5bcf108425dd.png)
+
 
 
 My Hobbies
