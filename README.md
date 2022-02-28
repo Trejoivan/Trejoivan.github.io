@@ -18,7 +18,7 @@ My Toolbox 🧰
 
 ![git](https://user-images.githubusercontent.com/86818646/153720353-44e4e1b8-6266-4fe6-9849-63927deacfc1.png)
 
-
+<!-- 
 
 My Hobbies
 ----
@@ -29,5 +29,5 @@ Wrestling🤼‍♂️
 Music🎧
 
 Painting🎨
-
+ -->
 
