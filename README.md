@@ -17,16 +17,4 @@ My Toolbox 🧰
 ![html2](https://user-images.githubusercontent.com/86818646/153720326-2488d680-f1e0-4599-8a02-98766522a743.png)
 ![git](https://user-images.githubusercontent.com/86818646/153720353-44e4e1b8-6266-4fe6-9849-63927deacfc1.png)
 
-<!-- 
-
-My Hobbies
-----
-Boxer🥊
-
-Wrestling🤼‍♂️
-
-Music🎧
-
-Painting🎨
- -->
-
+One's desire to be the best ever, starts with being the best version of yourself.
