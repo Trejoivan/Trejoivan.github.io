@@ -22,8 +22,3 @@ My Toolbox 🧰
 
 
 
-Projects
-----
-<!-- ![giphy loading](https://user-images.githubusercontent.com/86818646/156690875-00067794-7383-4843-86a3-bad377b8892d.gif)
-
- -->
