@@ -1,7 +1,6 @@
 Hi there 👋, I am Ivan Trejo
--
- 
 ----
+
 Software Engineer with the passion and determination to problem solve and utilize the most effective solution and willing to lead teams to implement the proper procedures. I strive for adaptability and willingness to learn from those more experienced but have no issue tackling difficult or seemingly impossible tasks regardless of my skill-set level.
 
 Currently in the process of coding up skynet. So far I have a program repeating 'Hasta la vista, baby!', so needless to say we're getting somewhere. 
