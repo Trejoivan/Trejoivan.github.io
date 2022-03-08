@@ -1,6 +1,5 @@
 Hi there 👋, I am Ivan Trejo
 -
-![Dev_animadoGIF](https://user-images.githubusercontent.com/86818646/156810349-2a32239c-6347-464f-a4f1-4035be68dfaa.gif)
  
 ----
 A student Software Engineer that is in the growing procesing of coding up skynet. So far I have a program repeating 'Hasta la vista, baby!', so needless to say we're getting somewhere. 
