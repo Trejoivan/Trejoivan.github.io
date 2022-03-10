@@ -24,7 +24,7 @@ Languages
 ![html2](https://user-images.githubusercontent.com/86818646/153720326-2488d680-f1e0-4599-8a02-98766522a743.png)
 ![git](https://user-images.githubusercontent.com/86818646/153720353-44e4e1b8-6266-4fe6-9849-63927deacfc1.png)
 
--Frameworks
+Frameworks
 ----
 ![React](https://user-images.githubusercontent.com/86818646/153720302-eadc7984-d6f2-4084-860b-fb13acd41925.png)
 ![bootstrap](https://user-images.githubusercontent.com/86818646/157768280-eac23dc5-a8bd-482c-b7fe-c230e743aa87.png)
