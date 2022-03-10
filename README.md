@@ -38,5 +38,6 @@ Databases
 
 Other
 ----
+![amazon2](https://user-images.githubusercontent.com/86818646/157769867-4fc59ffd-9afd-4f76-a53c-aed674640aa3.png)
 ![wondershare2](https://user-images.githubusercontent.com/86818646/157768911-b4a517de-a341-4f68-9bbf-73e3d92eb7cf.png)
 
