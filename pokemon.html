@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+  <head>
+    <meta charset='UTF-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+
+    <link rel='stylesheet' href='pokestyle.css' />
+    <title>Pokemon</title>
+  </head>
+
+  <body>
+    <h1 class='title'>
+      <img class='logo' src="imgs/pokemon logo.png" alt="logo">
+    </h1>
+    <h1 id="build">Build Your Starter Pack</h1>
+    <div class='button-container'>
+      <input type="number" min="1" max="200" maxlength="4" id="poki-search" />
+      <button class='random submit-search' onclick="searchPokemons()"> Search</button>
+      <div>
+        <button class='random' onclick=" fetchPokemons()">
+          Click here for random pokemon
+        </button>
+      </div>
+    </div>
+    <div id="container" class="container">
+      <div class="pokemon" style="background-color:#598140">
+        <div class="img-container">
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Bulbasaur">
+        </div>
+        <div class="info">
+          <span class="number">#1</span>
+          <h3 class="name">Bulbasaur</h3>
+          <small class="type">Type: <span>GRASS</span> </small>
+          <h4>XP: 64</h4>
+        </div>
+      </div>
+      <div class="pokemon" style="background-color: #e49a97">
+        <div class="img-container">
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" alt="">
+        </div>
+        <div class="info">
+          <span class="number">#4</span>
+          <h3 class="name">Charmander</h3>
+          <small class="type">Type: <span>FIRE</span> </small>
+          <h4>XP 62</h4>
+        </div>
+      </div>
+      <div class="pokemon" style="background-color: #92a6dc">
+        <div class="img-container">
+          <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" alt="">
+        </div>
+        <div class="info">
+          <span class="number">#7</span>
+          <h3 class="name">Squirtle</h3>
+          <small class="type">Type: <span>WATER</span> </small>
+          <h4>XP: 63</h4>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src='pokemon.js'></script>
+
+</html>
